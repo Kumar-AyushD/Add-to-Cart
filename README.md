@@ -11,5 +11,3 @@ A simple web application for managing tasks. This project is built with HTML, CS
 
 You can try the application live here: [Live Demo](https://add-to-cart-ayushthakur.netlify.app/)
 
-## Screenshots
-
